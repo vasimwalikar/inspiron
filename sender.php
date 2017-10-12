@@ -7,8 +7,8 @@
  **************************************
  */
 
-$to = 'YOUR_EMAIL_ADDRESS';
-$siteName = "YOUR_SITE_NAME";
+$to = 'inspiron.bangalore@gmail.com';
+$siteName = "http://www.inspirononline.com";
 
 /*
  *************************************************************
